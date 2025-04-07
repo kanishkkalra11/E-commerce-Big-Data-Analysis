@@ -1,0 +1,11 @@
+pandas
+numpy
+google-cloud-bigquery-storage
+google-cloud-bigquery
+pandas-gbq
+pyspark
+pickle
+io
+os
+requests
+redis
